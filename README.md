@@ -1,5 +1,7 @@
 # Studio Ghibli Genre Popularity Analysis
 
+[Project Webpage](https://phelpsbp.github.io/Studio-Ghibli-Genre-Popularity-Analysis/)
+
 ## Introduction
 This GitHub repository hosts a data analysis project that investigates the popularity of film genres within the prestigious catalog of Studio Ghibli, renowned for its exceptional storytelling and animation quality. This study delves into various aspects of the studio’s films, such as financial performance, genre effectiveness, and audience preferences, to identify the genres that resonate most with audiences and yield the highest financial returns.
 
