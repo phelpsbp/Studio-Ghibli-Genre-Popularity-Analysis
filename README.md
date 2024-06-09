@@ -1,14 +1,14 @@
 # Studio Ghibli Genre Popularity Analysis
 
 ## Introduction
-This GitHub repository hosts a data analysis project that investigates the popularity of film genres within the prestigious catalog of Studio Ghibli, renowned for its exceptional storytelling and animation quality. This study delves into various aspects of the studio’s films, such as financial performance, genre effectiveness, and audience preferences, to identify the genres that resonate most with audiences and yield the highest financial returns.
+This GitHub repository hosts a data analysis project that investigates the popularity of film genres created Studio Ghibli, known for its beautiful storytelling and iconic animation quality. This project analyzes various aspects of the studio’s films, such as financial performance, genre effectiveness, and audience preferences, to identify the genres that resonate most with audiences and yield the highest financial returns.
 
 ### Quick Links
 * [Studio Ghibli Dashboard on Tableau Public](https://public.tableau.com/views/StudioGhibliAnalyzingGenrePopularity/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 * [Project Webpage](https://phelpsbp.github.io/Studio-Ghibli-Genre-Popularity-Analysis/)
   
 ## Project Overview
-The project utilizes a detailed dataset available on Kaggle to analyze the success of different genres across Studio Ghibli films. By examining metrics such as budgets, revenues, and film durations, alongside directorial influence, this analysis aims to uncover patterns and trends that can inform future film projects and marketing strategies. The goal is to sustain and enhance the studio's impact on its global audience.
+The project analyzes the success of different genres across Studio Ghibli films. By examining metrics such as budgets, revenues, film durations, and directorial influence, this analysis aims to uncover patterns and trends that can inform future film projects and marketing strategies. The goal is to sustain and enhance the studio's impact on its global audience.
 
 ## Business Questions
 This analysis addresses key questions that could guide Studio Ghibli's future production decisions:
@@ -30,10 +30,9 @@ The analysis involves:
 - Tableau 
 
 ## Results
-The results highlight several strategic insights:
-1. **Adventure-Animation** genres have shown significant financial success, suggesting potential for future investments.
-2. **Animation-Drama** remains a staple, indicating its sustained appeal to audiences.
-3. Effective directorial choices, particularly involving veteran directors like Hayao Miyazaki, significantly enhance film performance.
+1. **Adventure-Animation** genres have shown significant financial success. 
+2. **Animation-Drama** remains a staple, proving its sustained appeal to audiences.
+3. Films done by Hayao Miyazaki significantly enhance film performance.
 
 ## Recommendations
 Based on the analysis, the following strategies are recommended for Studio Ghibli:
