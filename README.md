@@ -4,7 +4,7 @@
 This GitHub repository hosts a data analysis project that investigates the popularity of film genres within the prestigious catalog of Studio Ghibli, renowned for its exceptional storytelling and animation quality. This study delves into various aspects of the studio’s films, such as financial performance, genre effectiveness, and audience preferences, to identify the genres that resonate most with audiences and yield the highest financial returns.
 
 ### Quick Links
-* [Studio Ghibli Dashboard](https://public.tableau.com/views/StudioGhibliAnalyzingGenrePopularity/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+* [Studio Ghibli Dashboard on Tableau Public](https://public.tableau.com/views/StudioGhibliAnalyzingGenrePopularity/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 * [Project Webpage](https://phelpsbp.github.io/Studio-Ghibli-Genre-Popularity-Analysis/)
   
 ## Project Overview
@@ -27,6 +27,7 @@ The analysis involves:
 - Pandas for data manipulation
 - Matplotlib and Seaborn for data visualization
 - Jupyter Notebook
+- Tableau 
 
 ## Results
 The results highlight several strategic insights:
