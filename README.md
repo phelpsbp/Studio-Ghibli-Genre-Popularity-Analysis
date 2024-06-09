@@ -10,7 +10,6 @@ This GitHub repository hosts a data analysis project that investigates the popul
 ## Project Overview
 The project utilizes a detailed dataset available on Kaggle to analyze the success of different genres across Studio Ghibli films. By examining metrics such as budgets, revenues, and film durations, alongside directorial influence, this analysis aims to uncover patterns and trends that can inform future film projects and marketing strategies. The goal is to sustain and enhance the studio's impact on its global audience.
 
-
 ## Business Questions
 This analysis addresses key questions that could guide Studio Ghibli's future production decisions:
 1. **Which genre combinations are most frequently produced, and what does this reveal about viewer preferences?**
@@ -22,6 +21,12 @@ The analysis involves:
 - Data cleaning and preparation using Python.
 - Statistical analysis to understand genre popularity and financial metrics.
 - Visualization of findings through interactive dashboards created in Tableau.
+
+### Tools Used:
+- Python
+- Pandas for data manipulation
+- Matplotlib and Seaborn for data visualization
+- Jupyter Notebook
 
 ## Results
 The results highlight several strategic insights:
